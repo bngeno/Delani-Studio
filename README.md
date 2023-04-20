@@ -38,7 +38,7 @@ This project is a web application for Delani studio that shows details about the
 | :------------- | :----------: | -----------: |
 |  Enter your name  |   Benard Ngeno |     |
 | Enter your Email Address  | bnnie2002@yahoo.com|   |
-| Enter your message or comment   |  Hallo     |     |
+| Enter your message or comment   |  Hallo,Am a good in javascripting how do i join your team of expers     |     |
 | Press Submit|     |Pop up "Benard Ngeno, we have received your message. Thank you for reaching out to us.|
 
 ## Known Bugs
