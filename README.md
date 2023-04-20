@@ -2,7 +2,7 @@
 
 ## Author
 
-[Owiti-Charles](https://github.com/bngeno)
+[bngeno](https://github.com/bngeno)
 
 ## Description
 
