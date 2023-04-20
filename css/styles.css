@@ -75,14 +75,30 @@ html{
     padding-top: 10%;
     padding-bottom: 10%;
   }
-  .what_we_do{
+  .what-we-do{
     font-family: 'Quattrocento', serif;
     text-align: center;
     padding-top: 40px;
     font-family: 'Gabriela', serif;
   }
-  .what_we_do .headings{
-    padding-bottom: 38px;
+  .what-we-do .headings{
+    padding-bottom: 30px;
+  }
+  #portfolio{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-left:18%;
+    margin-right: 16%; 
+  }
+  .col-md-3 img{
+    max-width: 100%;
+    max-height: 100%;
+  }
+  .portfolio h2{
+    text-align: center;
+    padding-top:40px;
+    font-family: 'Gabriela', serif;
   }
 
 
