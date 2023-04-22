@@ -16,8 +16,6 @@ This project is a web application for Delani studio that shows details about the
 
 
 ## Installation / Setup instruction
-* Open Terminal {Ctrl+Alt+T}
-
 * git clone ```https://github.com/bngeno/Delani-Studio.git```
 
 * cd Delani-Studio
@@ -39,7 +37,7 @@ This project is a web application for Delani studio that shows details about the
 |  Enter your name  |   Benard Ngeno |     |
 | Enter your Email Address  | bnnie2002@yahoo.com|   |
 | Enter your message or comment   |  Hallo,Am good in javascripting how do i join your team of experts     |     |
-| Press Submit|     |Pop up "Delani Studio ; thank you for reaching out to us we are getting intouch as ASP."|
+| Press Submit|     |Pop up "#Name", thank you for reaching out to us we are getting intouch as ASP.|
 
 ## Known Bugs
 * Know incompactibilty issue with some apple devices. 
